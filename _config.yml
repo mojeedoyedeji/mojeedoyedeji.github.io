@@ -3,9 +3,10 @@
 #google_analytics: UA-NNNNNNNN-N
 
 header_pages:
-  - index.md
   - about.md
-  - home.md
+  - contact.md
+  - project.md
+ 
 
 page_paths:
   - home
