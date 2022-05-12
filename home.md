@@ -1,7 +1,7 @@
 ---
-title: About/
-layout: default
-permalink: /about
+title: Home/
+layout: home
+permalink: /Home
 ---
 
 # Mojeed Oyedeji, PhD 
