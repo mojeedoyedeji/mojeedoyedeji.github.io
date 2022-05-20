@@ -1,7 +1,7 @@
 ---
-title: About/
+title: Projects/
 layout: default
-permalink: /about
+permalink: /projects
 ---
 
 # Mojeed Oyedeji, PhD 
