@@ -1,16 +1,17 @@
 # Site settings
-name: Brittany Chiang
-title: Brittany Chiang | Front End Software Engineer
+name: Mojeed Opeyemi Oyedeji
+title: Mojeed Oyedeji, PhD |  Researcher & Software Engineer
 description: Design-minded front-end software engineer focused on building beautiful interfaces and experiences
-url: https://bchiang7.github.io/
-baseurl: ''
-email: brittany.chiang@gmail.com
+domain: my-site.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
+url: https://mojeedoyedeji.github.io  # the base hostname and protocol for your site, e.g. http://example.com
+baseurl: /mojeedoyedeji.github.io/
+email: mojeed.oyedeji@gmail.com
 cover: https://bchiang7.github.io/img/og.png
 logo: https://bchiang7.github.io/img/emojis/technologist.png
 resume: https://bchiang7.github.io/resume.pdf
 social:
   - title: email
-    url: mailto:brittany.chiang@gmail.com
+    url: mailto:mojeed.oyedeji@gmail.com
   - title: twitter
     url: https://twitter.com/bchiang7
   - title: instagram
