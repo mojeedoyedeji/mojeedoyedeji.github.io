@@ -1,0 +1,20 @@
+<section class="section experience">
+  <div class="section__title">Publications</div>
+  <div class="section__content">
+    <div class="jobs">
+      {% for pub in site.data.publications %}
+      <div class="job">
+        <div class="time-place">
+          <div class="job__company">
+            <a href="{{pub.url}}" target="_blank">{{pub.title}}</a>
+          </div>
+        </div>
+        <div class="job__position">{{pub.authors}}</div>
+        <div class="job__position">{{pub.journal}}</div>
+      </div>
+      {% endfor %}
+    </div>
+
+    
+  </div>
+</section>

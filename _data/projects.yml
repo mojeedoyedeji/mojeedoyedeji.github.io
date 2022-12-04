@@ -1,0 +1,33 @@
+- name: Chetaa Logistics
+  url: https://chetaa.com
+  description: A Software-as-a-Service logistics management application that helps logistics business manage their delivery requests. The application is multifaceted providing services to logistic businesses, dispatch riders, and vendors.
+  used:
+    - thing: JavaScript
+    - thing: React
+    - thing: React Router
+    - thing: React Redux
+    - thing: PHP
+    - thing: MySQL
+    - thing: Google API
+
+- name: WebCV
+  url: https://webcv.org
+  description: CV editing, sharing, and submission application.
+  used:
+    - thing: JavaScript
+    - thing: React
+    - thing: React Router
+    - thing: React Redux
+    - thing: PHP
+    - thing: MySQL
+
+- name: IScrypt
+  url: https://iscrypt.org
+  code: https://github.com/bchiang7/CS3200-Project
+  description: SaaS Web-based school management information system
+  used:
+    - thing: HTML
+    - thing: CSS
+    - thing: ASP.NET
+    - thing: Microsoft SQL Server
+
